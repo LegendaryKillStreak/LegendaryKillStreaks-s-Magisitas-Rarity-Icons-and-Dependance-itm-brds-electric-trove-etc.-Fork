@@ -1,0 +1,154 @@
+{
+    "custom_rarities": [
+        {
+            "id": "---junk---",
+            "name": "---junk---",
+            "color": "000000",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "spin_around_beam": false,
+                "trails": false,
+                "beam_height": 0,
+                "particle_count": 0
+            },
+            "selectors": [
+                "%໙"
+            ]
+        },
+        {
+            "id": "---common---",
+            "name": "---common---",
+            "color": "70453d",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "trails": false,
+                "glow_effect_radius": 1,
+                "glow_effect_alpha": 1,
+                "beam_height": 1,
+                "particle_texture": "lootbeams:4_star",
+                "particle_size": 1,
+                "particle_spread": 1,
+                "particle_count": 2
+            },
+            "selectors": [
+                "%໚"
+            ]
+        },
+        {
+            "id": "---rare---",
+            "name": "---rare---",
+            "color": "697c8c",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "trails": false,
+                "glow_effect_radius": 2,
+                "glow_effect_alpha": 1,
+                "beam_height": 2,
+                "particle_texture": "lootbeams:4_star",
+                "particle_size": 1,
+                "particle_spread": 2,
+                "particle_count": 4
+            },
+            "selectors": [
+                "%໛"
+            ]
+        },
+        {
+            "id": "---epic---",
+            "name": "---epic---",
+            "color": "996922",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "trails": false,
+                "glow_effect_radius": 3,
+                "glow_effect_alpha": 1,
+                "beam_height": 3,
+                "particle_texture": "lootbeams:4_star",
+                "particle_size": 1,
+                "particle_spread": 3,
+                "particle_count": 6
+            },
+            "selectors": [
+                "%ໜ"
+            ]
+        },
+        {
+            "id": "---trophee---",
+            "name": "---trophee---",
+            "color": "008fcc",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "glow_effect_radius": 5,
+                "glow_effect_alpha": 1,
+                "beam_height": 5,
+                "particle_texture": "lootbeams:sparkle_3",
+                "particle_size": 1,
+                "particle_spread": 5,
+                "particle_count": 10
+            },
+            "selectors": [
+                "%ໝ"
+            ]
+        },
+        {
+            "id": "---artifact---",
+            "name": "---artifact---",
+            "color": "705a87",
+            "animated_color": "1_#705a87_#705a87_#705a87_#705a87_#FFFFFF_#FFFFFF_#705a87",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "glow_effect_radius": 8,
+                "glow_effect_alpha": 1,
+                "beam_height": 8,
+                "particle_texture": "lootbeams:sparkle_3",
+                "particle_size": 1,
+                "particle_spread": 8,
+                "particle_count": 16
+            },
+            "selectors": [
+                "%ໞ"
+            ]
+        },
+        {
+            "id": "---unique---",
+            "name": "---unique---",
+            "color": "fffadb",
+            "animated_color": "3_#FF0000_#FF8000_#FFFF00_#00FF00_#00FFFF_#0000FF_#8000FF",
+            "config": {
+                "render_item_rarity": false,
+                "pulse_glow": false,
+                "rotate_glow": false,
+                "particle_random_y": false,
+                "glow_effect_radius": 15,
+                "glow_effect_alpha": 1,
+                "beam_height": 15,
+                "particle_texture": "lootbeams:sparkle_3",
+                "particle_size": 1,
+                "particle_spread": 15,
+                "particle_count": 30,
+                "glow_custom_shader": "glow_vortex_hole"
+            },
+            "selectors": [
+                "%ໟ","%໭"
+            ]
+        }
+    ]
+}

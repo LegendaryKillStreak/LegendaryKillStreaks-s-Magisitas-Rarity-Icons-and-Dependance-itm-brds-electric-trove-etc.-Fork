@@ -1,0 +1,76 @@
+{
+    "providers": [
+        {
+            "chars": [
+                "໛"
+            ],
+            "file": "custom/labels/rare.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "໚"
+            ],
+            "file": "custom/labels/common.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "໙"
+            ],
+            "file": "custom/labels/junk.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "ໞ"
+            ],
+            "file": "custom/labels/artifact.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "ໝ"
+            ],
+            "file": "custom/labels/trophee.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "ໜ"
+            ],
+            "file": "custom/labels/epic.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "ໟ"
+            ],
+            "file": "custom/labels/unique.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "໭"
+            ],
+            "file": "custom/labels/creative.png",
+            "ascent": 7,
+            "height": 14,
+            "type": "bitmap"
+        }
+    ]
+}
