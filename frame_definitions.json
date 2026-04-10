@@ -102,6 +102,17 @@
 			"selectors": ["iron_sword", "iron_shovel", "iron_pickaxe", "iron_axe", "iron_hoe", "iron_helmet", "iron_chestplate", "iron_leggings", "iron_boots",
 						  "golden_sword", "golden_shovel", "golden_pickaxe", "golden_axe", "golden_hoe", "golden_helmet", "golden_chestplate", "golden_leggings", "golden_boots",
 						  "%Chainmail", "compass", "clock", "spyglass", "shears", "%Bucket", "lead", "name_tag", "flint_and_steel", "bow", "crossbow", "trident", "shield"]
+		},
+
+		{
+			"index": 11,
+			"startColor": "12_#FF00FFFF_#FF00FF00_#FF40E0D0",
+			"endColor":   "12_#FF00FF00_#FF40E0D0_#FF00FFFF",
+			"bgStartColor": "#40000000",
+			"bgEndColor":   "#80000000",
+			"selectors": ["@lksls"]
 		}
+
+
 	]
 }
