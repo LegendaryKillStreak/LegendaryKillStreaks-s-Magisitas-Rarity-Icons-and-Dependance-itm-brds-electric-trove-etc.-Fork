@@ -1,1 +1,6 @@
-{"pack":{"description":"§cREAD THE README.TXT\n§d§oall features can be edited !","pack_format":48,"supported_formats": { "min_inclusive": 18, "max_inclusive": 99 }}}
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "LegendaryKillStreak's Complete Rarity Icons Pack\nFork of Magisitas Rarity Icons + merged dependencies (Icons, Lootbeams, ItemBorders, ElectricTrove)"
+  }
+}
